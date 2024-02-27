@@ -33,6 +33,12 @@ Picture of the working application:
 
 ![](https://github.com/Igimbayeva/My_workday_calendar/blob/main/Assets/Calendar%20in%20the%20web%20browser.PNG)
 
-Link to the deployed web app:
 
-[](https://igimbayeva.github.io/My_workday_calendar/)
+Live page URL:
+
+[https://igimbayeva.github.io/My_workday_calendar/]
+
+
+Link to the repo: 
+
+[https://github.com/Igimbayeva/My_workday_calendar]
