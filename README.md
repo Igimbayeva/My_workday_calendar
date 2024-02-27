@@ -31,5 +31,5 @@ Mock up:
 
 Picture of the working application:
 
-![] (https://https://github.com/Igimbayeva/My_workday_calendar/blob/main/Calendar%20in%20the%20web%20browser.PNG)
+![](https://https://github.com/Igimbayeva/My_workday_calendar/blob/main/Calendar%20in%20the%20web%20browser.PNG)
 
